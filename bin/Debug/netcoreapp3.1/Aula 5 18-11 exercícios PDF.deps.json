@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula 5 18-11 exercícios PDF/1.0.0": {
+        "runtime": {
+          "Aula 5 18-11 exercícios PDF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 5 18-11 exercícios PDF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

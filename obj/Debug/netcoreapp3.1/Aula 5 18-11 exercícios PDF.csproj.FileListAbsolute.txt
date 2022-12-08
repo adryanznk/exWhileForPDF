@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\bin\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.exe
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\bin\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.deps.json
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\bin\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.runtimeconfig.json
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\bin\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.runtimeconfig.dev.json
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\bin\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.dll
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\bin\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.pdb
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.AssemblyInfo.cs
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.dll
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.pdb
+C:\Users\User\Desktop\Devstars\C#\AULA 5 18-11\AULA 5 18-11\AULA 5 18-11 EX pdf\Aula 5 18-11 exercícios PDF\Aula 5 18-11 exercícios PDF\obj\Debug\netcoreapp3.1\Aula 5 18-11 exercícios PDF.genruntimeconfig.cache
